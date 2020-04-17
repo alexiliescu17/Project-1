@@ -1,0 +1,13 @@
+h2 {
+    font-style: italic;
+}
+
+.user-add-form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+}
+
+.user-add-form input {
+    max-width: 70%;
+}
